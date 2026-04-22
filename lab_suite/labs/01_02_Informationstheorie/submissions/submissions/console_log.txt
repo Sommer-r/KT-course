@@ -1,0 +1,115 @@
+Analyze the file:  C:\_git\KT_course\lab_suite\labs\01_02_Informationstheorie\submissions\sidedata/sampletext.txt
+
+-----File Contents:---------------------------------------------------
+Ein namhafter wissenschaftler (man sagt, es sei Bertrand Russell gewesen) 
+
+hielt einmal einen Ã¶ffentlichen Vortrag Ã¼ber Astronomie. Er schilderte, wie 
+
+die Erde um die Sonne und die Sonne ihrerseits um den Mittelpunkt einer riesigen 
+
+Ansammlung von Sternen kreist, die wir unsere Galaxis nennen. Als der Vortrag 
+
+beendet war, stand hinten im Saal eine kleine alte Dame auf und erklÃ¤rte: Was 
+
+Sie uns da erzÃ¤hlt haben, stimmt alles nicht. In Wirklichkeit ist die Welt eine flache
+
+Scheibe, die von einer RiesenschildkrÃ¶te auf dem RÃ¼cken getragen wird.
+
+Mit einem Ã¼berlegenen LÃ¤cheln hielt der Wissenschaftler ihr entgegen: Und worauf steht die 
+
+SchildkrÃ¶te? -Sehr schlau, junger Mann, parierte die alte Dame. Ich werds Ihnen sagen: Da 
+
+stehen lauter SchildkrÃ¶ten aufeinander. Die meisten Menschen werden Ã¼ber die Vorstellung, unser
+
+Universum sei ein unendlicher SchildkrÃ¶tenturm, den Kopf schÃ¼tteln. Doch woher 
+
+nehmen wir die Ãœberzeugung, es besser zu wissen? Was wissen wir vom Universum, und wieso 
+
+wissen wir es? Woher kommt das Universum, und wohin entwickelt es sich? Hatte es 
+
+wirklich einen Anfang? Und wenn, was geschah davor? Was ist die Zeit? Wird 
+
+sie je ein Ende finden? Neuere Erkenntnisse in der Physik, die teilweise phantastischen neuen
+
+Technologien zu verdanken sind, legen einige Antworten auf diese alten 
+
+Fragen nahe. Eines Tages werden uns diese Antworten vielleicht so 
+
+selbstverstÃ¤ndlich erscheinen wie die Tatsache, 12 daÃŸ die Erde um die Sonne 
+
+kreist â€“ oder so lÃ¤cherlich wie der SchildkrÃ¶tenturm. Nur die Zukunft (was auch immer das sein
+
+mag) kann uns eine Antwort darauf geben.
+Number of characters: 1623
+Character Dictionary: {'E': 7, 'i': 114, 'n': 141, ' ': 239, 'a': 64, 'm': 29, 'h': 52, 'f': 16, 't': 74, 'e': 224, 'r': 86, 'w': 30, 's': 89, 'c': 34, 'l': 49, '(': 2, 'g': 25, ',': 17, 'B': 1, 'd': 61, 'R': 3, 'u': 41, ')': 2, '\n': 19, 'Ã': 18, '¶': 6, 'V': 3, 'o': 28, '¼': 5, 'b': 10, 'A': 7, '.': 10, 'S': 12, 'M': 4, 'p': 4, 'k': 21, 'v': 10, 'G': 1, 'x': 1, 'D': 5, '¤': 5, ':': 3, 'W': 8, 'z': 4, 'I': 3, 'L': 1, 'U': 5, '?': 8, '-': 1, 'j': 2, 'K': 1, 'œ': 1, 'H': 1, 'Z': 2, 'N': 2, 'P': 1, 'y': 1, 'T': 3, 'F': 1, '1': 1, '2': 1, 'Ÿ': 1, 'â': 1, '€': 1, '“': 1}
+
+-------Table of characters:----------------
+       | cnt=239    p=0.147   H=2.764 bit/char  H_av=0.407 bit/char
+ e     | cnt=224    p=0.138   H=2.857 bit/char  H_av=0.394 bit/char
+ n     | cnt=141    p=0.087   H=3.525 bit/char  H_av=0.306 bit/char
+ i     | cnt=114    p=0.070   H=3.832 bit/char  H_av=0.269 bit/char
+ s     | cnt= 89    p=0.055   H=4.189 bit/char  H_av=0.230 bit/char
+ r     | cnt= 86    p=0.053   H=4.238 bit/char  H_av=0.225 bit/char
+ t     | cnt= 74    p=0.046   H=4.455 bit/char  H_av=0.203 bit/char
+ a     | cnt= 64    p=0.039   H=4.664 bit/char  H_av=0.184 bit/char
+ d     | cnt= 61    p=0.038   H=4.734 bit/char  H_av=0.178 bit/char
+ h     | cnt= 52    p=0.032   H=4.964 bit/char  H_av=0.159 bit/char
+ l     | cnt= 49    p=0.030   H=5.050 bit/char  H_av=0.152 bit/char
+ u     | cnt= 41    p=0.025   H=5.307 bit/char  H_av=0.134 bit/char
+ c     | cnt= 34    p=0.021   H=5.577 bit/char  H_av=0.117 bit/char
+ w     | cnt= 30    p=0.018   H=5.758 bit/char  H_av=0.106 bit/char
+ m     | cnt= 29    p=0.018   H=5.806 bit/char  H_av=0.104 bit/char
+ o     | cnt= 28    p=0.017   H=5.857 bit/char  H_av=0.101 bit/char
+ g     | cnt= 25    p=0.015   H=6.021 bit/char  H_av=0.093 bit/char
+ k     | cnt= 21    p=0.013   H=6.272 bit/char  H_av=0.081 bit/char
+ b'\n' | cnt= 19    p=0.012   H=6.417 bit/char  H_av=0.075 bit/char
+ Ã     | cnt= 18    p=0.011   H=6.495 bit/char  H_av=0.072 bit/char
+ ,     | cnt= 17    p=0.010   H=6.577 bit/char  H_av=0.069 bit/char
+ f     | cnt= 16    p=0.010   H=6.664 bit/char  H_av=0.066 bit/char
+ S     | cnt= 12    p=0.007   H=7.079 bit/char  H_av=0.052 bit/char
+ b     | cnt= 10    p=0.006   H=7.343 bit/char  H_av=0.045 bit/char
+ .     | cnt= 10    p=0.006   H=7.343 bit/char  H_av=0.045 bit/char
+ v     | cnt= 10    p=0.006   H=7.343 bit/char  H_av=0.045 bit/char
+ W     | cnt=  8    p=0.005   H=7.664 bit/char  H_av=0.038 bit/char
+ ?     | cnt=  8    p=0.005   H=7.664 bit/char  H_av=0.038 bit/char
+ E     | cnt=  7    p=0.004   H=7.857 bit/char  H_av=0.034 bit/char
+ A     | cnt=  7    p=0.004   H=7.857 bit/char  H_av=0.034 bit/char
+ ¶     | cnt=  6    p=0.004   H=8.079 bit/char  H_av=0.030 bit/char
+ ¼     | cnt=  5    p=0.003   H=8.343 bit/char  H_av=0.026 bit/char
+ D     | cnt=  5    p=0.003   H=8.343 bit/char  H_av=0.026 bit/char
+ ¤     | cnt=  5    p=0.003   H=8.343 bit/char  H_av=0.026 bit/char
+ U     | cnt=  5    p=0.003   H=8.343 bit/char  H_av=0.026 bit/char
+ M     | cnt=  4    p=0.002   H=8.664 bit/char  H_av=0.021 bit/char
+ p     | cnt=  4    p=0.002   H=8.664 bit/char  H_av=0.021 bit/char
+ z     | cnt=  4    p=0.002   H=8.664 bit/char  H_av=0.021 bit/char
+ R     | cnt=  3    p=0.002   H=9.079 bit/char  H_av=0.017 bit/char
+ V     | cnt=  3    p=0.002   H=9.079 bit/char  H_av=0.017 bit/char
+ :     | cnt=  3    p=0.002   H=9.079 bit/char  H_av=0.017 bit/char
+ I     | cnt=  3    p=0.002   H=9.079 bit/char  H_av=0.017 bit/char
+ T     | cnt=  3    p=0.002   H=9.079 bit/char  H_av=0.017 bit/char
+ (     | cnt=  2    p=0.001   H=9.664 bit/char  H_av=0.012 bit/char
+ )     | cnt=  2    p=0.001   H=9.664 bit/char  H_av=0.012 bit/char
+ j     | cnt=  2    p=0.001   H=9.664 bit/char  H_av=0.012 bit/char
+ Z     | cnt=  2    p=0.001   H=9.664 bit/char  H_av=0.012 bit/char
+ N     | cnt=  2    p=0.001   H=9.664 bit/char  H_av=0.012 bit/char
+ B     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ G     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ x     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ L     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ -     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ K     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ œ     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ H     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ P     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ y     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ F     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ 1     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ 2     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ Ÿ     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ â     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ €     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+ “     | cnt=  1    p=0.001   H=10.664 bit/char  H_av=0.007 bit/char
+-------------------------------------------
+
+Average Entropy H = 4.508 bit/char
+Total Entropy of 1623 characters H=7317.18 bit = 915.00 byte
